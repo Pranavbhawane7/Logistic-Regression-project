@@ -1,8 +1,4 @@
 ## Logistic Regression on Advertising Dataset
-
----
-
-# Project Overview
 This project demonstrates how to apply Logistic Regression to predict whether a user will click on an advertisement based on demographic and behavioral features.
 It covers the end-to-end machine learning workflow: data analysis, preprocessing, model building, and evaluation.
 
