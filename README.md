@@ -90,15 +90,3 @@ Age and Daily Internet Usage emerged as the most influential predictors.
 The model provides interpretable insights useful for digital marketing strategies.
 
 ---
-
-# Future Improvements
-Compare Logistic Regression with other classifiers (Random Forest, SVM, XGBoost).
-
-Perform hyperparameter tuning for improved performance.
-
-Deploy the model using Streamlit or Flask for interactive predictions.
-
----
-
-# Acknowledgements
-Dataset widely used in ML tutorials (Kaggle, Udemy, Coursera).
