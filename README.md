@@ -30,9 +30,14 @@ Clicked on Ad (target variable: 0 = No, 1 = Yes)
 ---
 
 ## Observations
-Relation between age and area income
+Relation between Age and Area income
 
 <img width="656" height="542" alt="image" src="https://github.com/user-attachments/assets/8509b737-1494-46dc-962c-1c465ee435c7" />
+
+Daily time spent on site vs Age
+
+<img width="617" height="537" alt="image" src="https://github.com/user-attachments/assets/f29720c0-31b6-4339-8e79-6bf1c02525bb" />
+
 
 
 # Tech Stack
